@@ -15,6 +15,7 @@ show_downloads: false
 use_github_wiki: false
 use_prose_io: false
 comments: true
+is_project_page: false
 
 gems:
   - jekyll-sitemap
