@@ -12,6 +12,9 @@ google_cse_token:
 custom_head: true
 custom_sidebar: true
 custom_footer: true
+
+show_downloads: false
+
 gems:
   - jekyll-sitemap
   - jekyll-mentions
