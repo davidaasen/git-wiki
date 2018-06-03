@@ -13,9 +13,10 @@ custom_head: true
 custom_sidebar: true
 custom_footer: true
 
-show_downloads: false
+show_downloads: true
 use_github_wiki: false
 use_prose_io: false
+site.comments: true
 
 gems:
   - jekyll-sitemap
