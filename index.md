@@ -1,3 +1,10 @@
+# Title
+
+Here is a [link](wiki/pagea.md) to first wiki page
+
+Here is a [link](wiki/pageb.md) to second wiki page
+
+
 # Welcome to git-wiki demo
 
 This is a [demo](wiki/Demo.md) of git-wiki theme for jekyll.
@@ -51,17 +58,3 @@ You can create following files in _includes folder to costumize git-wiki without
 * comments.html -> this is mostly used to integrate social comments under page contents
 * footer.html -> this file will be included in left side of the footer.
 
-## Looking for collaboration
-
-Do you like this project? then, contact us via [chat](https://gitter.im/Drassil/general?utm_source=share-link&utm_medium=link&utm_campaign=share-link) , <a href="mailto:staff-drassil@googlegroups.com">email</a>  or send us a PR to improve it.
-
-Thank you!
-
-## Components used
-
-- [jekyll-table-of-contents](https://github.com/ghiculescu/jekyll-table-of-contents)
-
-- [jQuery](https://jquery.com/)
-
-
-[MIT LICENSE](LICENSE)
