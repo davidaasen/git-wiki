@@ -16,7 +16,7 @@ custom_footer: true
 show_downloads: true
 use_github_wiki: false
 use_prose_io: false
-site.comments: true
+comments: true
 
 gems:
   - jekyll-sitemap
