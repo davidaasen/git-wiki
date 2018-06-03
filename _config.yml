@@ -1,5 +1,5 @@
 title: dave-wiki
-description: git-wiki is a jekyll theme originally based on jekyll-theme-minimal
+description: wikipage
 show_downloads: true
 git_branch: master
 logo_url:
@@ -7,7 +7,7 @@ google_analytics:
 theme: 
 wiki_folder: wiki
 use_github_wiki: false
-use_prose_io: true
+use_prose_io: false
 google_cse_token: 
 custom_head: true
 custom_sidebar: true
