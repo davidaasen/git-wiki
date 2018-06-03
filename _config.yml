@@ -13,7 +13,7 @@ custom_head: true
 custom_sidebar: true
 custom_footer: true
 
-show_downloads: true
+show_downloads: false
 use_github_wiki: false
 use_prose_io: false
 comments: true
